@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">HairDew</string>
+
+    //STRINGS FOR ACTIVITY_LOGIN
+    <string name="header">Go Back to Nature, Back to Natural</string>
+    <string name="app_info_section_1">When caring for your precious coils, you deserve the best.</string>
+    <string name="buttonCreate">Create</string>
+    <string name="buttonExplore">Explore</string>
+    <string name="buttonFAQ">FAQ</string>
+
+    //STRINGS FOR ACTIVITY_FAQ
+    <string name="Question1Q">How Does It Work?</string>
+    <string name="Question1A">Hair Dew is an application that allows you to create organic hair products with just the click of a few buttons. By clicking on the Create tab you are taken to a page that explores the different steps of making your own product. At the bottom of this page you click, once again, on the Create button and can begin the process of choosing what goes into your very own product. Ideally you would choose a base, an oil, and perhaps a scent. But feel free to mix and match as you please. You\'re the creator and this is your lab. </string>
+    <string name="Question2Q">Can I Purchase Products Individually Or Must I Follow All The Steps? </string>
+    <string name="Question2A">We do sell products individually. Go to the Create page where you begin to build your own product and at the top there is the option of purchasing products individually. </string>
+    <string name="Question3Q">Are Refunds Available?</string>
+    <string name="Question3A">We would hate to hear that you are not satisfied with your creation and we provide a place for feedback however, we do not accept returns nor do we make refunds.</string>
+    <string name="Question4Q">Who Owns Hair Dew?</string>
+    <string name="Question4A">Hair Dew was founded by Jillian Johnson. You can read more about her here.</string>
+    <string name="Question5Q">I Don\'t See What I Want, Do You Take Personal Requests?</string>
+    <string name="Question5A">We love feedback and encourage requests and critics of many kinds. If you would like to order something we don\'t have listed we will source it out for you. </string>
+
+    //STRINGS FOR ACTIVITY_CREATE
+    <string name="headerCreate">We\'re All Mad Here</string>
+    <string name="chooseBase">Choose Your Base</string>
+    <string name="chooseOil">Choose Your Balm</string>
+    <string name="chooseScent">Choose Your Gloss</string>
+    <string name="chooseBaseMoreInfo">"This is the nourishing foundation for your creation."</string>
+    <string name="startCreatingButton">Create</string>
+
+    //STRINGS FOR ACTIVITY_BUILD_PRODUCT
+    <string name="step1">Step 1: Nourishing Base</string>
+    <string name="step2">Step 2: Moisturizing Balm </string>
+    <string name="step3">Step 3: Preserving Gloss</string>
+    <string name="baseCheckBox1">Water</string>
+    <string name="baseCheckBox2">Rose Water</string>
+    <string name="baseCheckBox3">Glycerine</string>
+    <string name="baseCheckBox4">Aloe Vera</string>
+    <string name="baseCheckBox5">Tea Tree Oil</string>
+    <string name="baseCheckBox6">Peppermint Oil</string>
+    <string name="baseCheckBox7">Lavender Oil</string>
+    <string name="baseCheckBox8">Almond Oil</string>
+    <string name="baseCheckBox9">Vanilla Extract</string>
+
+    <string name="balmCheckBox1">Olive Oil</string>
+    <string name="balmCheckBox2">Coconut Oil</string>
+    <string name="balmCheckBox3">GrapeSeed Oil</string>
+    <string name="balmCheckBox4">Babassu Oil</string>
+    <string name="balmCheckBox5">Herbal Shea Butter</string>
+    <string name="balmCheckBox6">White Shea Butter</string>
+    <string name="balmCheckBox7">Murumuru Butter</string>
+    <string name="balmCheckBox8">Babassu Oil</string>
+
+    <string name="infusionOptions1">Jojoba Oil</string>
+    <string name="infusionOptions2">Vanilla</string>
+    <string name="infusionOptions3">Lavender Oil</string>
+    <string name="infusionOptions4">Peppermint Oil</string>
+    <string name="infusionOptions5">Jamaican Black Castor Oil</string>
+
+    //STRINGS FOR ACTIVITY_SUBMIT
+    <string name="title">Order Summary</string>
+
+    //STRINGS FOR ACTIVITY_CHOOSEBASEINFO
+    <string name="chooseBaseTitle">What\'s In Your Dew</string>
+    <string name="choosebasebody">Choosing a base for your hair care product is the first and most important step
+        to your hair care regime. No two heads are the same however dewy and hydrated kinks are a must have for
+        natural hair on anyone. The best way to maintain a dewy and hydrated coif is through achieving pH balance.
+        The proper pH balance for one\'s head is within the 4.5-5.5 range(acidic). This acidity is a direct result
+        of the mantle on one\'s hair shaft. The mantel is a thin layer of sebum, salt, and water covering every follicle.
+        It helps to keep the cuticles lining the hair shaft closed which stops the hair from becoming dry which can ultimately lead to breakage.
+        Selecting at least one product from each category below will ensure that your hair\'s pH balance is strengthened and restored.
+    </string>
+    <string name="choosebaseproductlist">Water - RoseWater ~ Glycerine - AloeVera ~ TeaTree Oil - Peppermint Oil - Lavender Oil - Almond Oil - Vanilla Extract</string>
+
+    //STRINGS FOR ACTIVITY_CHOOSEOILINFO
+    <string name="chooseOilTitle">You Look Balm</string>
+    <string name="chooseOilBody">After dewing your hair you must take action to ensure that all of that hydration is
+    sealed in. Sealing one\'s hair is a 2 step process and this is step one. Here you will create a product using all
+    natural waxes and penetrative oils that will seal in hydration and moisturize your hair. There are specific oils
+    that have been proven to penetrate the hair shaft and diminish protein loss. </string>
+    <string name="chooseOilProductList">Herbal Shea Butter - White Shea Butter - Murumuru Butter
+    ~ Coconut Oil - Grapeseed Oil - Olive Oil - Babassu Oil</string>
+
+    //STRINGS FOR ACTIVITY_CHOOSESCENTINFO
+    <string name="chooseScentTitle">Get Glossed</string>
+    <string name="chooseScentBody">This is the final step of your hair care regime and the final step to sealing your
+    hair. There are oils that penetrate your hair and there are oils that simply coat your hair. These coating oils
+    are perfect for sealing in your moisturizer. They diminish water absorption which in turn reduces frizz and preserves
+    the health of your head longer. Using any of the products listed below will achieve the desired results of preservation.
+    We also give you the option of lacing your hair with an aromatic oil mixture for a scent-astic finishing touch!</string>
+    <string name="chooseScentProductList">Jojoba Oil - Jamaican Black Castor Oil</string>
+
+
+</resources>
+
+
+
